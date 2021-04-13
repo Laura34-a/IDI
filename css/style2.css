@@ -1,0 +1,37 @@
+.imgns{
+	box-sizing: border-box;
+	max-width: 100%;
+	height: auto;
+	border-radius: 10px;
+	padding: 20px;
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 10%);
+}
+
+.ctns{
+	color: #fff;
+    font-family: 'Archivo Black', sans-serif;
+    padding: 10px 20px;
+    border: 0;
+    background: #1F618D;
+    border-radius: 6px;
+    font-size: 14px;
+    text-align: center;
+    display: block;
+    margin: 15px 210px 0px 0px;
+}
+
+.ctns:hover{
+	color: #fff;
+    font-family: 'Archivo Black', sans-serif;
+    padding: 10px 20px;
+    border: 0;
+    background: #1F618D;
+    border-radius: 6px;
+    font-size: 14px;
+    text-align: center;
+    display: block;
+}
+
+.imgf{
+	max-width: 170px;
+}
